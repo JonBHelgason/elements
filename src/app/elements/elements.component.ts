@@ -1,6 +1,6 @@
-import { Element } from '@angular/compiler';
+// import { Element } from '@angular/compiler';
 import { Component, OnInit } from '@angular/core';
-/** import { Element } from '../element';*/
+import { Element } from '../element';
 import { ELEMENTS } from '../mock-elements';
 
 @Component({
